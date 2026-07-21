@@ -1,0 +1,6 @@
+﻿  main1_0721.c
+C:\Users\Admin\source\repos\robit_21th_intern_jeonseoyeon_0721\Project1_0721\main1_0721.c(37,26): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\Users\Admin\source\repos\robit_21th_intern_jeonseoyeon_0721\Project1_0721\main1_0721.c(37,26):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+  Project1_0721.vcxproj -> C:\Users\Admin\source\repos\robit_21th_intern_jeonseoyeon_0721\x64\Debug\Project1_0721.exe
