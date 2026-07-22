@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60F7721E-5636-48D4-9456-485F8311CA37}|Project3_0720\\Project3_0720.vcxproj|C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\Project3_0720\\main3_0720.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60F7721E-5636-48D4-9456-485F8311CA37}|Project3_0720\\Project3_0720.vcxproj|solutionrelative:Project3_0720\\main3_0720.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{170B8E15-BE8A-43FC-9269-31D8BB7DB681}|Project7_0720\\Project7_0720.vcxproj|C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\Project7_0720\\main7_0720.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{170B8E15-BE8A-43FC-9269-31D8BB7DB681}|Project7_0720\\Project7_0720.vcxproj|solutionrelative:Project7_0720\\main7_0720.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main3_0720.c",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\Project3_0720\\main3_0720.c",
+              "RelativeDocumentMoniker": "Project3_0720\\main3_0720.c",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\Project3_0720\\main3_0720.c",
+              "RelativeToolTip": "Project3_0720\\main3_0720.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-22T06:16:28.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main7_0720.c",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\21th_intern_jeonseoyeon\\C_day3\\Project7_0720\\main7_0720.c",
               "RelativeDocumentMoniker": "Project7_0720\\main7_0720.c",
